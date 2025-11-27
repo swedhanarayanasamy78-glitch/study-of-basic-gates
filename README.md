@@ -83,7 +83,8 @@ endmodule
 ![IMAGE](https://github.com/user-attachments/assets/d6e0b66d-8b57-4e99-959d-693941f1106b)
 
 **RTL**
-![image](https://github.com/user-attachments/assets/f38a9655-7bb1-40e6-bfa7-22a654ce999d)
+<img width="796" height="447" alt="image" src="https://github.com/user-attachments/assets/c8312870-a58e-4203-8ffc-0ebeed250627" />
+
 
 
 
